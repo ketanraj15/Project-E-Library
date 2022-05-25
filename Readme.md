@@ -1,6 +1,6 @@
 # E-Library
 
-  **Url for the deployed application:**  <[https://project-e-library123.herokuapp.com/](https://e-library234.herokuapp.com/)> <br />
+  **Url for the deployed application:**  <https://e-library234.herokuapp.com/> <br />
   **Url of video Pitch:** <https://drive.google.com/file/d/1wbdui3u5RZMJL38VjNQPZ4E4JHcYeoHw/view?usp=sharing> <br />
   
   
